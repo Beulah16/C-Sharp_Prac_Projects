@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Prac. Projects\4_Multiply\obj\Debug\net7.0\4_Multiply.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Prac. Projects\4_Multiply\obj\Debug\net7.0\4_Multiply.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Prac. Projects\4_Multiply\obj\Debug\net7.0\4_Multiply.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\4_Multiply\obj\Debug\net7.0\4_Multiply.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Prac. Projects\4_Multiply\obj\Debug\net7.0\4_Multiply.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\4_Multiply\bin\Debug\net7.0\4_Multiply.exe
+C:\Users\user\Desktop\C# Prac. Projects\4_Multiply\bin\Debug\net7.0\4_Multiply.deps.json
+C:\Users\user\Desktop\C# Prac. Projects\4_Multiply\bin\Debug\net7.0\4_Multiply.runtimeconfig.json
+C:\Users\user\Desktop\C# Prac. Projects\4_Multiply\bin\Debug\net7.0\4_Multiply.dll
+C:\Users\user\Desktop\C# Prac. Projects\4_Multiply\bin\Debug\net7.0\4_Multiply.pdb
+C:\Users\user\Desktop\C# Prac. Projects\4_Multiply\obj\Debug\net7.0\4_Multiply.dll
+C:\Users\user\Desktop\C# Prac. Projects\4_Multiply\obj\Debug\net7.0\refint\4_Multiply.dll
+C:\Users\user\Desktop\C# Prac. Projects\4_Multiply\obj\Debug\net7.0\4_Multiply.pdb
+C:\Users\user\Desktop\C# Prac. Projects\4_Multiply\obj\Debug\net7.0\4_Multiply.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Prac. Projects\4_Multiply\obj\Debug\net7.0\ref\4_Multiply.dll

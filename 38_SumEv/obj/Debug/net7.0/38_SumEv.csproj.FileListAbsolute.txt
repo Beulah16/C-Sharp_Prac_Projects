@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Prac. Projects\38_SumEv\bin\Debug\net7.0\38_SumEv.exe
+C:\Users\user\Desktop\C# Prac. Projects\38_SumEv\bin\Debug\net7.0\38_SumEv.deps.json
+C:\Users\user\Desktop\C# Prac. Projects\38_SumEv\bin\Debug\net7.0\38_SumEv.runtimeconfig.json
+C:\Users\user\Desktop\C# Prac. Projects\38_SumEv\bin\Debug\net7.0\38_SumEv.dll
+C:\Users\user\Desktop\C# Prac. Projects\38_SumEv\bin\Debug\net7.0\38_SumEv.pdb
+C:\Users\user\Desktop\C# Prac. Projects\38_SumEv\obj\Debug\net7.0\38_SumEv.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Prac. Projects\38_SumEv\obj\Debug\net7.0\38_SumEv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Prac. Projects\38_SumEv\obj\Debug\net7.0\38_SumEv.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\38_SumEv\obj\Debug\net7.0\38_SumEv.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Prac. Projects\38_SumEv\obj\Debug\net7.0\38_SumEv.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\38_SumEv\obj\Debug\net7.0\38_SumEv.dll
+C:\Users\user\Desktop\C# Prac. Projects\38_SumEv\obj\Debug\net7.0\refint\38_SumEv.dll
+C:\Users\user\Desktop\C# Prac. Projects\38_SumEv\obj\Debug\net7.0\38_SumEv.pdb
+C:\Users\user\Desktop\C# Prac. Projects\38_SumEv\obj\Debug\net7.0\38_SumEv.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Prac. Projects\38_SumEv\obj\Debug\net7.0\ref\38_SumEv.dll

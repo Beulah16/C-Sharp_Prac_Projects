@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Prac. Projects\57_calculator\obj\Debug\net6.0\57_Calculator.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Prac. Projects\57_calculator\obj\Debug\net6.0\57_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Prac. Projects\57_calculator\obj\Debug\net6.0\57_Calculator.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\57_calculator\obj\Debug\net6.0\57_Calculator.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Prac. Projects\57_calculator\obj\Debug\net6.0\57_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\57_calculator\bin\Debug\net6.0\57_Calculator.exe
+C:\Users\user\Desktop\C# Prac. Projects\57_calculator\bin\Debug\net6.0\57_Calculator.deps.json
+C:\Users\user\Desktop\C# Prac. Projects\57_calculator\bin\Debug\net6.0\57_Calculator.runtimeconfig.json
+C:\Users\user\Desktop\C# Prac. Projects\57_calculator\bin\Debug\net6.0\57_Calculator.dll
+C:\Users\user\Desktop\C# Prac. Projects\57_calculator\bin\Debug\net6.0\57_Calculator.pdb
+C:\Users\user\Desktop\C# Prac. Projects\57_calculator\obj\Debug\net6.0\57_Calculator.dll
+C:\Users\user\Desktop\C# Prac. Projects\57_calculator\obj\Debug\net6.0\refint\57_Calculator.dll
+C:\Users\user\Desktop\C# Prac. Projects\57_calculator\obj\Debug\net6.0\57_Calculator.pdb
+C:\Users\user\Desktop\C# Prac. Projects\57_calculator\obj\Debug\net6.0\57_Calculator.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Prac. Projects\57_calculator\obj\Debug\net6.0\ref\57_Calculator.dll

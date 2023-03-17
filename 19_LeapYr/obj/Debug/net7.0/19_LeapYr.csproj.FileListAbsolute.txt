@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Prac. Projects\19_LeapYr\bin\Debug\net7.0\19_LeapYr.exe
+C:\Users\user\Desktop\C# Prac. Projects\19_LeapYr\bin\Debug\net7.0\19_LeapYr.deps.json
+C:\Users\user\Desktop\C# Prac. Projects\19_LeapYr\bin\Debug\net7.0\19_LeapYr.runtimeconfig.json
+C:\Users\user\Desktop\C# Prac. Projects\19_LeapYr\bin\Debug\net7.0\19_LeapYr.dll
+C:\Users\user\Desktop\C# Prac. Projects\19_LeapYr\bin\Debug\net7.0\19_LeapYr.pdb
+C:\Users\user\Desktop\C# Prac. Projects\19_LeapYr\obj\Debug\net7.0\19_LeapYr.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Prac. Projects\19_LeapYr\obj\Debug\net7.0\19_LeapYr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Prac. Projects\19_LeapYr\obj\Debug\net7.0\19_LeapYr.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\19_LeapYr\obj\Debug\net7.0\19_LeapYr.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Prac. Projects\19_LeapYr\obj\Debug\net7.0\19_LeapYr.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\19_LeapYr\obj\Debug\net7.0\19_LeapYr.dll
+C:\Users\user\Desktop\C# Prac. Projects\19_LeapYr\obj\Debug\net7.0\refint\19_LeapYr.dll
+C:\Users\user\Desktop\C# Prac. Projects\19_LeapYr\obj\Debug\net7.0\19_LeapYr.pdb
+C:\Users\user\Desktop\C# Prac. Projects\19_LeapYr\obj\Debug\net7.0\19_LeapYr.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Prac. Projects\19_LeapYr\obj\Debug\net7.0\ref\19_LeapYr.dll

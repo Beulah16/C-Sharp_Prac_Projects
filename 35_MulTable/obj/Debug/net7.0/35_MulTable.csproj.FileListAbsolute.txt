@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Prac. Projects\35_MulTable\bin\Debug\net7.0\35_MulTable.exe
+C:\Users\user\Desktop\C# Prac. Projects\35_MulTable\bin\Debug\net7.0\35_MulTable.deps.json
+C:\Users\user\Desktop\C# Prac. Projects\35_MulTable\bin\Debug\net7.0\35_MulTable.runtimeconfig.json
+C:\Users\user\Desktop\C# Prac. Projects\35_MulTable\bin\Debug\net7.0\35_MulTable.dll
+C:\Users\user\Desktop\C# Prac. Projects\35_MulTable\bin\Debug\net7.0\35_MulTable.pdb
+C:\Users\user\Desktop\C# Prac. Projects\35_MulTable\obj\Debug\net7.0\35_MulTable.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Prac. Projects\35_MulTable\obj\Debug\net7.0\35_MulTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Prac. Projects\35_MulTable\obj\Debug\net7.0\35_MulTable.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\35_MulTable\obj\Debug\net7.0\35_MulTable.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Prac. Projects\35_MulTable\obj\Debug\net7.0\35_MulTable.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\35_MulTable\obj\Debug\net7.0\35_MulTable.dll
+C:\Users\user\Desktop\C# Prac. Projects\35_MulTable\obj\Debug\net7.0\refint\35_MulTable.dll
+C:\Users\user\Desktop\C# Prac. Projects\35_MulTable\obj\Debug\net7.0\35_MulTable.pdb
+C:\Users\user\Desktop\C# Prac. Projects\35_MulTable\obj\Debug\net7.0\35_MulTable.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Prac. Projects\35_MulTable\obj\Debug\net7.0\ref\35_MulTable.dll

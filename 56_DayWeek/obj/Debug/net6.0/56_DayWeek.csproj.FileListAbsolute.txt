@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Prac. Projects\56_DayWeek\bin\Debug\net6.0\56_DayWeek.exe
+C:\Users\user\Desktop\C# Prac. Projects\56_DayWeek\bin\Debug\net6.0\56_DayWeek.deps.json
+C:\Users\user\Desktop\C# Prac. Projects\56_DayWeek\bin\Debug\net6.0\56_DayWeek.runtimeconfig.json
+C:\Users\user\Desktop\C# Prac. Projects\56_DayWeek\bin\Debug\net6.0\56_DayWeek.dll
+C:\Users\user\Desktop\C# Prac. Projects\56_DayWeek\bin\Debug\net6.0\56_DayWeek.pdb
+C:\Users\user\Desktop\C# Prac. Projects\56_DayWeek\obj\Debug\net6.0\56_DayWeek.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Prac. Projects\56_DayWeek\obj\Debug\net6.0\56_DayWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Prac. Projects\56_DayWeek\obj\Debug\net6.0\56_DayWeek.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\56_DayWeek\obj\Debug\net6.0\56_DayWeek.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Prac. Projects\56_DayWeek\obj\Debug\net6.0\56_DayWeek.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\56_DayWeek\obj\Debug\net6.0\56_DayWeek.dll
+C:\Users\user\Desktop\C# Prac. Projects\56_DayWeek\obj\Debug\net6.0\refint\56_DayWeek.dll
+C:\Users\user\Desktop\C# Prac. Projects\56_DayWeek\obj\Debug\net6.0\56_DayWeek.pdb
+C:\Users\user\Desktop\C# Prac. Projects\56_DayWeek\obj\Debug\net6.0\56_DayWeek.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Prac. Projects\56_DayWeek\obj\Debug\net6.0\ref\56_DayWeek.dll

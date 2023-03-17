@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Prac. Projects\28_Eligibility\bin\Debug\net7.0\28_Eligibility.exe
+C:\Users\user\Desktop\C# Prac. Projects\28_Eligibility\bin\Debug\net7.0\28_Eligibility.deps.json
+C:\Users\user\Desktop\C# Prac. Projects\28_Eligibility\bin\Debug\net7.0\28_Eligibility.runtimeconfig.json
+C:\Users\user\Desktop\C# Prac. Projects\28_Eligibility\bin\Debug\net7.0\28_Eligibility.dll
+C:\Users\user\Desktop\C# Prac. Projects\28_Eligibility\bin\Debug\net7.0\28_Eligibility.pdb
+C:\Users\user\Desktop\C# Prac. Projects\28_Eligibility\obj\Debug\net7.0\28_Eligibility.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Prac. Projects\28_Eligibility\obj\Debug\net7.0\28_Eligibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Prac. Projects\28_Eligibility\obj\Debug\net7.0\28_Eligibility.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\28_Eligibility\obj\Debug\net7.0\28_Eligibility.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Prac. Projects\28_Eligibility\obj\Debug\net7.0\28_Eligibility.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\28_Eligibility\obj\Debug\net7.0\28_Eligibility.dll
+C:\Users\user\Desktop\C# Prac. Projects\28_Eligibility\obj\Debug\net7.0\refint\28_Eligibility.dll
+C:\Users\user\Desktop\C# Prac. Projects\28_Eligibility\obj\Debug\net7.0\28_Eligibility.pdb
+C:\Users\user\Desktop\C# Prac. Projects\28_Eligibility\obj\Debug\net7.0\28_Eligibility.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Prac. Projects\28_Eligibility\obj\Debug\net7.0\ref\28_Eligibility.dll

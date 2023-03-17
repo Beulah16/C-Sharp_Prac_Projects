@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Prac. Projects\37_SumDig\bin\Debug\net7.0\37_SumDig.exe
+C:\Users\user\Desktop\C# Prac. Projects\37_SumDig\bin\Debug\net7.0\37_SumDig.deps.json
+C:\Users\user\Desktop\C# Prac. Projects\37_SumDig\bin\Debug\net7.0\37_SumDig.runtimeconfig.json
+C:\Users\user\Desktop\C# Prac. Projects\37_SumDig\bin\Debug\net7.0\37_SumDig.dll
+C:\Users\user\Desktop\C# Prac. Projects\37_SumDig\bin\Debug\net7.0\37_SumDig.pdb
+C:\Users\user\Desktop\C# Prac. Projects\37_SumDig\obj\Debug\net7.0\37_SumDig.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Prac. Projects\37_SumDig\obj\Debug\net7.0\37_SumDig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Prac. Projects\37_SumDig\obj\Debug\net7.0\37_SumDig.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\37_SumDig\obj\Debug\net7.0\37_SumDig.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Prac. Projects\37_SumDig\obj\Debug\net7.0\37_SumDig.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\37_SumDig\obj\Debug\net7.0\37_SumDig.dll
+C:\Users\user\Desktop\C# Prac. Projects\37_SumDig\obj\Debug\net7.0\refint\37_SumDig.dll
+C:\Users\user\Desktop\C# Prac. Projects\37_SumDig\obj\Debug\net7.0\37_SumDig.pdb
+C:\Users\user\Desktop\C# Prac. Projects\37_SumDig\obj\Debug\net7.0\37_SumDig.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Prac. Projects\37_SumDig\obj\Debug\net7.0\ref\37_SumDig.dll

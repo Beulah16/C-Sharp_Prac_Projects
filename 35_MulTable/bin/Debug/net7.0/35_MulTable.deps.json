@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "35_MulTable/1.0.0": {
+        "runtime": {
+          "35_MulTable.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "35_MulTable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

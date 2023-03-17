@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Prac. Projects\32_Triangle\bin\Debug\net7.0\32_Triangle.exe
+C:\Users\user\Desktop\C# Prac. Projects\32_Triangle\bin\Debug\net7.0\32_Triangle.deps.json
+C:\Users\user\Desktop\C# Prac. Projects\32_Triangle\bin\Debug\net7.0\32_Triangle.runtimeconfig.json
+C:\Users\user\Desktop\C# Prac. Projects\32_Triangle\bin\Debug\net7.0\32_Triangle.dll
+C:\Users\user\Desktop\C# Prac. Projects\32_Triangle\bin\Debug\net7.0\32_Triangle.pdb
+C:\Users\user\Desktop\C# Prac. Projects\32_Triangle\obj\Debug\net7.0\32_Triangle.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Prac. Projects\32_Triangle\obj\Debug\net7.0\32_Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Prac. Projects\32_Triangle\obj\Debug\net7.0\32_Triangle.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\32_Triangle\obj\Debug\net7.0\32_Triangle.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Prac. Projects\32_Triangle\obj\Debug\net7.0\32_Triangle.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\32_Triangle\obj\Debug\net7.0\32_Triangle.dll
+C:\Users\user\Desktop\C# Prac. Projects\32_Triangle\obj\Debug\net7.0\refint\32_Triangle.dll
+C:\Users\user\Desktop\C# Prac. Projects\32_Triangle\obj\Debug\net7.0\32_Triangle.pdb
+C:\Users\user\Desktop\C# Prac. Projects\32_Triangle\obj\Debug\net7.0\32_Triangle.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Prac. Projects\32_Triangle\obj\Debug\net7.0\ref\32_Triangle.dll

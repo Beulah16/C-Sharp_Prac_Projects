@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Prac. Projects\55_MonthNum\bin\Debug\net6.0\55_MonthNum.exe
+C:\Users\user\Desktop\C# Prac. Projects\55_MonthNum\bin\Debug\net6.0\55_MonthNum.deps.json
+C:\Users\user\Desktop\C# Prac. Projects\55_MonthNum\bin\Debug\net6.0\55_MonthNum.runtimeconfig.json
+C:\Users\user\Desktop\C# Prac. Projects\55_MonthNum\bin\Debug\net6.0\55_MonthNum.dll
+C:\Users\user\Desktop\C# Prac. Projects\55_MonthNum\bin\Debug\net6.0\55_MonthNum.pdb
+C:\Users\user\Desktop\C# Prac. Projects\55_MonthNum\obj\Debug\net6.0\55_MonthNum.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Prac. Projects\55_MonthNum\obj\Debug\net6.0\55_MonthNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Prac. Projects\55_MonthNum\obj\Debug\net6.0\55_MonthNum.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\55_MonthNum\obj\Debug\net6.0\55_MonthNum.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Prac. Projects\55_MonthNum\obj\Debug\net6.0\55_MonthNum.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\55_MonthNum\obj\Debug\net6.0\55_MonthNum.dll
+C:\Users\user\Desktop\C# Prac. Projects\55_MonthNum\obj\Debug\net6.0\refint\55_MonthNum.dll
+C:\Users\user\Desktop\C# Prac. Projects\55_MonthNum\obj\Debug\net6.0\55_MonthNum.pdb
+C:\Users\user\Desktop\C# Prac. Projects\55_MonthNum\obj\Debug\net6.0\55_MonthNum.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Prac. Projects\55_MonthNum\obj\Debug\net6.0\ref\55_MonthNum.dll

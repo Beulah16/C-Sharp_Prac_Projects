@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Prac. Projects\34_AnsciiLoop\bin\Debug\net7.0\34_AnsciiLoop.exe
+C:\Users\user\Desktop\C# Prac. Projects\34_AnsciiLoop\bin\Debug\net7.0\34_AnsciiLoop.deps.json
+C:\Users\user\Desktop\C# Prac. Projects\34_AnsciiLoop\bin\Debug\net7.0\34_AnsciiLoop.runtimeconfig.json
+C:\Users\user\Desktop\C# Prac. Projects\34_AnsciiLoop\bin\Debug\net7.0\34_AnsciiLoop.dll
+C:\Users\user\Desktop\C# Prac. Projects\34_AnsciiLoop\bin\Debug\net7.0\34_AnsciiLoop.pdb
+C:\Users\user\Desktop\C# Prac. Projects\34_AnsciiLoop\obj\Debug\net7.0\34_AnsciiLoop.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Prac. Projects\34_AnsciiLoop\obj\Debug\net7.0\34_AnsciiLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Prac. Projects\34_AnsciiLoop\obj\Debug\net7.0\34_AnsciiLoop.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\34_AnsciiLoop\obj\Debug\net7.0\34_AnsciiLoop.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Prac. Projects\34_AnsciiLoop\obj\Debug\net7.0\34_AnsciiLoop.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\34_AnsciiLoop\obj\Debug\net7.0\34_AnsciiLoop.dll
+C:\Users\user\Desktop\C# Prac. Projects\34_AnsciiLoop\obj\Debug\net7.0\refint\34_AnsciiLoop.dll
+C:\Users\user\Desktop\C# Prac. Projects\34_AnsciiLoop\obj\Debug\net7.0\34_AnsciiLoop.pdb
+C:\Users\user\Desktop\C# Prac. Projects\34_AnsciiLoop\obj\Debug\net7.0\34_AnsciiLoop.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Prac. Projects\34_AnsciiLoop\obj\Debug\net7.0\ref\34_AnsciiLoop.dll

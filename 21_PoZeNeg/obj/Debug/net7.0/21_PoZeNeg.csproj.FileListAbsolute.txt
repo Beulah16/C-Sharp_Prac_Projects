@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Prac. Projects\21_PoZeNeg\bin\Debug\net7.0\21_PoZeNeg.exe
+C:\Users\user\Desktop\C# Prac. Projects\21_PoZeNeg\bin\Debug\net7.0\21_PoZeNeg.deps.json
+C:\Users\user\Desktop\C# Prac. Projects\21_PoZeNeg\bin\Debug\net7.0\21_PoZeNeg.runtimeconfig.json
+C:\Users\user\Desktop\C# Prac. Projects\21_PoZeNeg\bin\Debug\net7.0\21_PoZeNeg.dll
+C:\Users\user\Desktop\C# Prac. Projects\21_PoZeNeg\bin\Debug\net7.0\21_PoZeNeg.pdb
+C:\Users\user\Desktop\C# Prac. Projects\21_PoZeNeg\obj\Debug\net7.0\21_PoZeNeg.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Prac. Projects\21_PoZeNeg\obj\Debug\net7.0\21_PoZeNeg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Prac. Projects\21_PoZeNeg\obj\Debug\net7.0\21_PoZeNeg.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\21_PoZeNeg\obj\Debug\net7.0\21_PoZeNeg.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Prac. Projects\21_PoZeNeg\obj\Debug\net7.0\21_PoZeNeg.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\21_PoZeNeg\obj\Debug\net7.0\21_PoZeNeg.dll
+C:\Users\user\Desktop\C# Prac. Projects\21_PoZeNeg\obj\Debug\net7.0\refint\21_PoZeNeg.dll
+C:\Users\user\Desktop\C# Prac. Projects\21_PoZeNeg\obj\Debug\net7.0\21_PoZeNeg.pdb
+C:\Users\user\Desktop\C# Prac. Projects\21_PoZeNeg\obj\Debug\net7.0\21_PoZeNeg.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Prac. Projects\21_PoZeNeg\obj\Debug\net7.0\ref\21_PoZeNeg.dll

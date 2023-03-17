@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "33_AlphaLoop/1.0.0": {
+        "runtime": {
+          "33_AlphaLoop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "33_AlphaLoop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Prac. Projects\18_LarNes\bin\Debug\net7.0\18_LarNes.exe
+C:\Users\user\Desktop\C# Prac. Projects\18_LarNes\bin\Debug\net7.0\18_LarNes.deps.json
+C:\Users\user\Desktop\C# Prac. Projects\18_LarNes\bin\Debug\net7.0\18_LarNes.runtimeconfig.json
+C:\Users\user\Desktop\C# Prac. Projects\18_LarNes\bin\Debug\net7.0\18_LarNes.dll
+C:\Users\user\Desktop\C# Prac. Projects\18_LarNes\bin\Debug\net7.0\18_LarNes.pdb
+C:\Users\user\Desktop\C# Prac. Projects\18_LarNes\obj\Debug\net7.0\18_LarNes.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Prac. Projects\18_LarNes\obj\Debug\net7.0\18_LarNes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Prac. Projects\18_LarNes\obj\Debug\net7.0\18_LarNes.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\18_LarNes\obj\Debug\net7.0\18_LarNes.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Prac. Projects\18_LarNes\obj\Debug\net7.0\18_LarNes.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\18_LarNes\obj\Debug\net7.0\18_LarNes.dll
+C:\Users\user\Desktop\C# Prac. Projects\18_LarNes\obj\Debug\net7.0\refint\18_LarNes.dll
+C:\Users\user\Desktop\C# Prac. Projects\18_LarNes\obj\Debug\net7.0\18_LarNes.pdb
+C:\Users\user\Desktop\C# Prac. Projects\18_LarNes\obj\Debug\net7.0\18_LarNes.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Prac. Projects\18_LarNes\obj\Debug\net7.0\ref\18_LarNes.dll

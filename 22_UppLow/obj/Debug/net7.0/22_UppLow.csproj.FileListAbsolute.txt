@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Prac. Projects\22_UppLow\obj\Debug\net7.0\22_UppLow.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Prac. Projects\22_UppLow\obj\Debug\net7.0\22_UppLow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Prac. Projects\22_UppLow\obj\Debug\net7.0\22_UppLow.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\22_UppLow\obj\Debug\net7.0\22_UppLow.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Prac. Projects\22_UppLow\obj\Debug\net7.0\22_UppLow.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\22_UppLow\bin\Debug\net7.0\22_UppLow.exe
+C:\Users\user\Desktop\C# Prac. Projects\22_UppLow\bin\Debug\net7.0\22_UppLow.deps.json
+C:\Users\user\Desktop\C# Prac. Projects\22_UppLow\bin\Debug\net7.0\22_UppLow.runtimeconfig.json
+C:\Users\user\Desktop\C# Prac. Projects\22_UppLow\bin\Debug\net7.0\22_UppLow.dll
+C:\Users\user\Desktop\C# Prac. Projects\22_UppLow\bin\Debug\net7.0\22_UppLow.pdb
+C:\Users\user\Desktop\C# Prac. Projects\22_UppLow\obj\Debug\net7.0\22_UppLow.dll
+C:\Users\user\Desktop\C# Prac. Projects\22_UppLow\obj\Debug\net7.0\refint\22_UppLow.dll
+C:\Users\user\Desktop\C# Prac. Projects\22_UppLow\obj\Debug\net7.0\22_UppLow.pdb
+C:\Users\user\Desktop\C# Prac. Projects\22_UppLow\obj\Debug\net7.0\22_UppLow.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Prac. Projects\22_UppLow\obj\Debug\net7.0\ref\22_UppLow.dll

@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Prac. Projects\36_NaturalNumRev\bin\Debug\net7.0\36_NaturalNumRev.exe
+C:\Users\user\Desktop\C# Prac. Projects\36_NaturalNumRev\bin\Debug\net7.0\36_NaturalNumRev.deps.json
+C:\Users\user\Desktop\C# Prac. Projects\36_NaturalNumRev\bin\Debug\net7.0\36_NaturalNumRev.runtimeconfig.json
+C:\Users\user\Desktop\C# Prac. Projects\36_NaturalNumRev\bin\Debug\net7.0\36_NaturalNumRev.dll
+C:\Users\user\Desktop\C# Prac. Projects\36_NaturalNumRev\bin\Debug\net7.0\36_NaturalNumRev.pdb
+C:\Users\user\Desktop\C# Prac. Projects\36_NaturalNumRev\obj\Debug\net7.0\36_NaturalNumRev.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Prac. Projects\36_NaturalNumRev\obj\Debug\net7.0\36_NaturalNumRev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Prac. Projects\36_NaturalNumRev\obj\Debug\net7.0\36_NaturalNumRev.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\36_NaturalNumRev\obj\Debug\net7.0\36_NaturalNumRev.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Prac. Projects\36_NaturalNumRev\obj\Debug\net7.0\36_NaturalNumRev.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\36_NaturalNumRev\obj\Debug\net7.0\36_NaturalNumRev.dll
+C:\Users\user\Desktop\C# Prac. Projects\36_NaturalNumRev\obj\Debug\net7.0\refint\36_NaturalNumRev.dll
+C:\Users\user\Desktop\C# Prac. Projects\36_NaturalNumRev\obj\Debug\net7.0\36_NaturalNumRev.pdb
+C:\Users\user\Desktop\C# Prac. Projects\36_NaturalNumRev\obj\Debug\net7.0\36_NaturalNumRev.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Prac. Projects\36_NaturalNumRev\obj\Debug\net7.0\ref\36_NaturalNumRev.dll

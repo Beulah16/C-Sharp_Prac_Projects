@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Prac. Projects\23_VoCon\bin\Debug\net7.0\23_VoCon.exe
+C:\Users\user\Desktop\C# Prac. Projects\23_VoCon\bin\Debug\net7.0\23_VoCon.deps.json
+C:\Users\user\Desktop\C# Prac. Projects\23_VoCon\bin\Debug\net7.0\23_VoCon.runtimeconfig.json
+C:\Users\user\Desktop\C# Prac. Projects\23_VoCon\bin\Debug\net7.0\23_VoCon.dll
+C:\Users\user\Desktop\C# Prac. Projects\23_VoCon\bin\Debug\net7.0\23_VoCon.pdb
+C:\Users\user\Desktop\C# Prac. Projects\23_VoCon\obj\Debug\net7.0\23_VoCon.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Prac. Projects\23_VoCon\obj\Debug\net7.0\23_VoCon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Prac. Projects\23_VoCon\obj\Debug\net7.0\23_VoCon.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\23_VoCon\obj\Debug\net7.0\23_VoCon.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Prac. Projects\23_VoCon\obj\Debug\net7.0\23_VoCon.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\23_VoCon\obj\Debug\net7.0\23_VoCon.dll
+C:\Users\user\Desktop\C# Prac. Projects\23_VoCon\obj\Debug\net7.0\refint\23_VoCon.dll
+C:\Users\user\Desktop\C# Prac. Projects\23_VoCon\obj\Debug\net7.0\23_VoCon.pdb
+C:\Users\user\Desktop\C# Prac. Projects\23_VoCon\obj\Debug\net7.0\23_VoCon.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Prac. Projects\23_VoCon\obj\Debug\net7.0\ref\23_VoCon.dll

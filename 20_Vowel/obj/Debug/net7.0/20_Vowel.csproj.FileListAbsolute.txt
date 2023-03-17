@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Prac. Projects\20_Vowel\bin\Debug\net7.0\20_Vowel.exe
+C:\Users\user\Desktop\C# Prac. Projects\20_Vowel\bin\Debug\net7.0\20_Vowel.deps.json
+C:\Users\user\Desktop\C# Prac. Projects\20_Vowel\bin\Debug\net7.0\20_Vowel.runtimeconfig.json
+C:\Users\user\Desktop\C# Prac. Projects\20_Vowel\bin\Debug\net7.0\20_Vowel.dll
+C:\Users\user\Desktop\C# Prac. Projects\20_Vowel\bin\Debug\net7.0\20_Vowel.pdb
+C:\Users\user\Desktop\C# Prac. Projects\20_Vowel\obj\Debug\net7.0\20_Vowel.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Prac. Projects\20_Vowel\obj\Debug\net7.0\20_Vowel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Prac. Projects\20_Vowel\obj\Debug\net7.0\20_Vowel.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\20_Vowel\obj\Debug\net7.0\20_Vowel.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Prac. Projects\20_Vowel\obj\Debug\net7.0\20_Vowel.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\20_Vowel\obj\Debug\net7.0\20_Vowel.dll
+C:\Users\user\Desktop\C# Prac. Projects\20_Vowel\obj\Debug\net7.0\refint\20_Vowel.dll
+C:\Users\user\Desktop\C# Prac. Projects\20_Vowel\obj\Debug\net7.0\20_Vowel.pdb
+C:\Users\user\Desktop\C# Prac. Projects\20_Vowel\obj\Debug\net7.0\20_Vowel.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Prac. Projects\20_Vowel\obj\Debug\net7.0\ref\20_Vowel.dll

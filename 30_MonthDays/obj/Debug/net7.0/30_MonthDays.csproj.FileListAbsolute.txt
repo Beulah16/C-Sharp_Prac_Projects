@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Prac. Projects\30_MonthDays\bin\Debug\net7.0\30_MonthDays.exe
+C:\Users\user\Desktop\C# Prac. Projects\30_MonthDays\bin\Debug\net7.0\30_MonthDays.deps.json
+C:\Users\user\Desktop\C# Prac. Projects\30_MonthDays\bin\Debug\net7.0\30_MonthDays.runtimeconfig.json
+C:\Users\user\Desktop\C# Prac. Projects\30_MonthDays\bin\Debug\net7.0\30_MonthDays.dll
+C:\Users\user\Desktop\C# Prac. Projects\30_MonthDays\bin\Debug\net7.0\30_MonthDays.pdb
+C:\Users\user\Desktop\C# Prac. Projects\30_MonthDays\obj\Debug\net7.0\30_MonthDays.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Prac. Projects\30_MonthDays\obj\Debug\net7.0\30_MonthDays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Prac. Projects\30_MonthDays\obj\Debug\net7.0\30_MonthDays.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\30_MonthDays\obj\Debug\net7.0\30_MonthDays.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Prac. Projects\30_MonthDays\obj\Debug\net7.0\30_MonthDays.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\30_MonthDays\obj\Debug\net7.0\30_MonthDays.dll
+C:\Users\user\Desktop\C# Prac. Projects\30_MonthDays\obj\Debug\net7.0\refint\30_MonthDays.dll
+C:\Users\user\Desktop\C# Prac. Projects\30_MonthDays\obj\Debug\net7.0\30_MonthDays.pdb
+C:\Users\user\Desktop\C# Prac. Projects\30_MonthDays\obj\Debug\net7.0\30_MonthDays.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Prac. Projects\30_MonthDays\obj\Debug\net7.0\ref\30_MonthDays.dll

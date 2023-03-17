@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Prac. Projects\41_SumFirLas\bin\Debug\net7.0\41_SumFirLas.exe
+C:\Users\user\Desktop\C# Prac. Projects\41_SumFirLas\bin\Debug\net7.0\41_SumFirLas.deps.json
+C:\Users\user\Desktop\C# Prac. Projects\41_SumFirLas\bin\Debug\net7.0\41_SumFirLas.runtimeconfig.json
+C:\Users\user\Desktop\C# Prac. Projects\41_SumFirLas\bin\Debug\net7.0\41_SumFirLas.dll
+C:\Users\user\Desktop\C# Prac. Projects\41_SumFirLas\bin\Debug\net7.0\41_SumFirLas.pdb
+C:\Users\user\Desktop\C# Prac. Projects\41_SumFirLas\obj\Debug\net7.0\41_SumFirLas.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Prac. Projects\41_SumFirLas\obj\Debug\net7.0\41_SumFirLas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Prac. Projects\41_SumFirLas\obj\Debug\net7.0\41_SumFirLas.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\41_SumFirLas\obj\Debug\net7.0\41_SumFirLas.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Prac. Projects\41_SumFirLas\obj\Debug\net7.0\41_SumFirLas.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\41_SumFirLas\obj\Debug\net7.0\41_SumFirLas.dll
+C:\Users\user\Desktop\C# Prac. Projects\41_SumFirLas\obj\Debug\net7.0\refint\41_SumFirLas.dll
+C:\Users\user\Desktop\C# Prac. Projects\41_SumFirLas\obj\Debug\net7.0\41_SumFirLas.pdb
+C:\Users\user\Desktop\C# Prac. Projects\41_SumFirLas\obj\Debug\net7.0\41_SumFirLas.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Prac. Projects\41_SumFirLas\obj\Debug\net7.0\ref\41_SumFirLas.dll

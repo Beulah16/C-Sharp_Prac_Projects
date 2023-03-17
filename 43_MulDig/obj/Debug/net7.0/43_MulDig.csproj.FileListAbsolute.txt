@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Prac. Projects\43_MulDig\bin\Debug\net7.0\43_MulDig.exe
+C:\Users\user\Desktop\C# Prac. Projects\43_MulDig\bin\Debug\net7.0\43_MulDig.deps.json
+C:\Users\user\Desktop\C# Prac. Projects\43_MulDig\bin\Debug\net7.0\43_MulDig.runtimeconfig.json
+C:\Users\user\Desktop\C# Prac. Projects\43_MulDig\bin\Debug\net7.0\43_MulDig.dll
+C:\Users\user\Desktop\C# Prac. Projects\43_MulDig\bin\Debug\net7.0\43_MulDig.pdb
+C:\Users\user\Desktop\C# Prac. Projects\43_MulDig\obj\Debug\net7.0\43_MulDig.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Prac. Projects\43_MulDig\obj\Debug\net7.0\43_MulDig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Prac. Projects\43_MulDig\obj\Debug\net7.0\43_MulDig.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\43_MulDig\obj\Debug\net7.0\43_MulDig.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Prac. Projects\43_MulDig\obj\Debug\net7.0\43_MulDig.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\43_MulDig\obj\Debug\net7.0\43_MulDig.dll
+C:\Users\user\Desktop\C# Prac. Projects\43_MulDig\obj\Debug\net7.0\refint\43_MulDig.dll
+C:\Users\user\Desktop\C# Prac. Projects\43_MulDig\obj\Debug\net7.0\43_MulDig.pdb
+C:\Users\user\Desktop\C# Prac. Projects\43_MulDig\obj\Debug\net7.0\43_MulDig.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Prac. Projects\43_MulDig\obj\Debug\net7.0\ref\43_MulDig.dll

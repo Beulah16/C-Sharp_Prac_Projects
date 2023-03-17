@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Prac. Projects\40_SwapDig\bin\Debug\net7.0\40_SwapDig.exe
+C:\Users\user\Desktop\C# Prac. Projects\40_SwapDig\bin\Debug\net7.0\40_SwapDig.deps.json
+C:\Users\user\Desktop\C# Prac. Projects\40_SwapDig\bin\Debug\net7.0\40_SwapDig.runtimeconfig.json
+C:\Users\user\Desktop\C# Prac. Projects\40_SwapDig\bin\Debug\net7.0\40_SwapDig.dll
+C:\Users\user\Desktop\C# Prac. Projects\40_SwapDig\bin\Debug\net7.0\40_SwapDig.pdb
+C:\Users\user\Desktop\C# Prac. Projects\40_SwapDig\obj\Debug\net7.0\40_SwapDig.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Prac. Projects\40_SwapDig\obj\Debug\net7.0\40_SwapDig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Prac. Projects\40_SwapDig\obj\Debug\net7.0\40_SwapDig.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\40_SwapDig\obj\Debug\net7.0\40_SwapDig.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Prac. Projects\40_SwapDig\obj\Debug\net7.0\40_SwapDig.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\40_SwapDig\obj\Debug\net7.0\40_SwapDig.dll
+C:\Users\user\Desktop\C# Prac. Projects\40_SwapDig\obj\Debug\net7.0\refint\40_SwapDig.dll
+C:\Users\user\Desktop\C# Prac. Projects\40_SwapDig\obj\Debug\net7.0\40_SwapDig.pdb
+C:\Users\user\Desktop\C# Prac. Projects\40_SwapDig\obj\Debug\net7.0\40_SwapDig.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Prac. Projects\40_SwapDig\obj\Debug\net7.0\ref\40_SwapDig.dll

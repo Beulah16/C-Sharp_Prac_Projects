@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Prac. Projects\26_Equal\bin\Debug\net7.0\26_Equal.exe
+C:\Users\user\Desktop\C# Prac. Projects\26_Equal\bin\Debug\net7.0\26_Equal.deps.json
+C:\Users\user\Desktop\C# Prac. Projects\26_Equal\bin\Debug\net7.0\26_Equal.runtimeconfig.json
+C:\Users\user\Desktop\C# Prac. Projects\26_Equal\bin\Debug\net7.0\26_Equal.dll
+C:\Users\user\Desktop\C# Prac. Projects\26_Equal\bin\Debug\net7.0\26_Equal.pdb
+C:\Users\user\Desktop\C# Prac. Projects\26_Equal\obj\Debug\net7.0\26_Equal.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Prac. Projects\26_Equal\obj\Debug\net7.0\26_Equal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Prac. Projects\26_Equal\obj\Debug\net7.0\26_Equal.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\26_Equal\obj\Debug\net7.0\26_Equal.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Prac. Projects\26_Equal\obj\Debug\net7.0\26_Equal.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\26_Equal\obj\Debug\net7.0\26_Equal.dll
+C:\Users\user\Desktop\C# Prac. Projects\26_Equal\obj\Debug\net7.0\refint\26_Equal.dll
+C:\Users\user\Desktop\C# Prac. Projects\26_Equal\obj\Debug\net7.0\26_Equal.pdb
+C:\Users\user\Desktop\C# Prac. Projects\26_Equal\obj\Debug\net7.0\26_Equal.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Prac. Projects\26_Equal\obj\Debug\net7.0\ref\26_Equal.dll

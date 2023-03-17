@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "34_AnsciiLoop/1.0.0": {
+        "runtime": {
+          "34_AnsciiLoop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "34_AnsciiLoop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

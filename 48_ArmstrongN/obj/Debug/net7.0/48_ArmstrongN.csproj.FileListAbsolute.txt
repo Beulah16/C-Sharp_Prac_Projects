@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Prac. Projects\48_ArmstrongN\bin\Debug\net7.0\48_ArmstrongN.exe
+C:\Users\user\Desktop\C# Prac. Projects\48_ArmstrongN\bin\Debug\net7.0\48_ArmstrongN.deps.json
+C:\Users\user\Desktop\C# Prac. Projects\48_ArmstrongN\bin\Debug\net7.0\48_ArmstrongN.runtimeconfig.json
+C:\Users\user\Desktop\C# Prac. Projects\48_ArmstrongN\bin\Debug\net7.0\48_ArmstrongN.dll
+C:\Users\user\Desktop\C# Prac. Projects\48_ArmstrongN\bin\Debug\net7.0\48_ArmstrongN.pdb
+C:\Users\user\Desktop\C# Prac. Projects\48_ArmstrongN\obj\Debug\net7.0\48_ArmstrongN.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Prac. Projects\48_ArmstrongN\obj\Debug\net7.0\48_ArmstrongN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Prac. Projects\48_ArmstrongN\obj\Debug\net7.0\48_ArmstrongN.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\48_ArmstrongN\obj\Debug\net7.0\48_ArmstrongN.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Prac. Projects\48_ArmstrongN\obj\Debug\net7.0\48_ArmstrongN.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\48_ArmstrongN\obj\Debug\net7.0\48_ArmstrongN.dll
+C:\Users\user\Desktop\C# Prac. Projects\48_ArmstrongN\obj\Debug\net7.0\refint\48_ArmstrongN.dll
+C:\Users\user\Desktop\C# Prac. Projects\48_ArmstrongN\obj\Debug\net7.0\48_ArmstrongN.pdb
+C:\Users\user\Desktop\C# Prac. Projects\48_ArmstrongN\obj\Debug\net7.0\48_ArmstrongN.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Prac. Projects\48_ArmstrongN\obj\Debug\net7.0\ref\48_ArmstrongN.dll

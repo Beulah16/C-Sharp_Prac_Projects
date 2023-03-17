@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "19_LeapYr/1.0.0": {
+        "runtime": {
+          "19_LeapYr.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "19_LeapYr/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

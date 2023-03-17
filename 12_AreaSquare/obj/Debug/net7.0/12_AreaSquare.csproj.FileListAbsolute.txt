@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Prac. Projects\12_AreaSquare\bin\Debug\net7.0\12_AreaSquare.exe
+C:\Users\user\Desktop\C# Prac. Projects\12_AreaSquare\bin\Debug\net7.0\12_AreaSquare.deps.json
+C:\Users\user\Desktop\C# Prac. Projects\12_AreaSquare\bin\Debug\net7.0\12_AreaSquare.runtimeconfig.json
+C:\Users\user\Desktop\C# Prac. Projects\12_AreaSquare\bin\Debug\net7.0\12_AreaSquare.dll
+C:\Users\user\Desktop\C# Prac. Projects\12_AreaSquare\bin\Debug\net7.0\12_AreaSquare.pdb
+C:\Users\user\Desktop\C# Prac. Projects\12_AreaSquare\obj\Debug\net7.0\12_AreaSquare.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Prac. Projects\12_AreaSquare\obj\Debug\net7.0\12_AreaSquare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Prac. Projects\12_AreaSquare\obj\Debug\net7.0\12_AreaSquare.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\12_AreaSquare\obj\Debug\net7.0\12_AreaSquare.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Prac. Projects\12_AreaSquare\obj\Debug\net7.0\12_AreaSquare.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\12_AreaSquare\obj\Debug\net7.0\12_AreaSquare.dll
+C:\Users\user\Desktop\C# Prac. Projects\12_AreaSquare\obj\Debug\net7.0\refint\12_AreaSquare.dll
+C:\Users\user\Desktop\C# Prac. Projects\12_AreaSquare\obj\Debug\net7.0\12_AreaSquare.pdb
+C:\Users\user\Desktop\C# Prac. Projects\12_AreaSquare\obj\Debug\net7.0\12_AreaSquare.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Prac. Projects\12_AreaSquare\obj\Debug\net7.0\ref\12_AreaSquare.dll

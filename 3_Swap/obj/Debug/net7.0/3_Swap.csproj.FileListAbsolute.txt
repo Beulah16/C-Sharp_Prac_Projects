@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Prac. Projects\3_Swap\bin\Debug\net7.0\3_Swap.exe
+C:\Users\user\Desktop\C# Prac. Projects\3_Swap\bin\Debug\net7.0\3_Swap.deps.json
+C:\Users\user\Desktop\C# Prac. Projects\3_Swap\bin\Debug\net7.0\3_Swap.runtimeconfig.json
+C:\Users\user\Desktop\C# Prac. Projects\3_Swap\bin\Debug\net7.0\3_Swap.dll
+C:\Users\user\Desktop\C# Prac. Projects\3_Swap\bin\Debug\net7.0\3_Swap.pdb
+C:\Users\user\Desktop\C# Prac. Projects\3_Swap\obj\Debug\net7.0\3_Swap.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Prac. Projects\3_Swap\obj\Debug\net7.0\3_Swap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Prac. Projects\3_Swap\obj\Debug\net7.0\3_Swap.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\3_Swap\obj\Debug\net7.0\3_Swap.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Prac. Projects\3_Swap\obj\Debug\net7.0\3_Swap.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\3_Swap\obj\Debug\net7.0\3_Swap.dll
+C:\Users\user\Desktop\C# Prac. Projects\3_Swap\obj\Debug\net7.0\refint\3_Swap.dll
+C:\Users\user\Desktop\C# Prac. Projects\3_Swap\obj\Debug\net7.0\3_Swap.pdb
+C:\Users\user\Desktop\C# Prac. Projects\3_Swap\obj\Debug\net7.0\3_Swap.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Prac. Projects\3_Swap\obj\Debug\net7.0\ref\3_Swap.dll

@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Prac. Projects\17_LarCon\bin\Debug\net7.0\17_LarCon.exe
+C:\Users\user\Desktop\C# Prac. Projects\17_LarCon\bin\Debug\net7.0\17_LarCon.deps.json
+C:\Users\user\Desktop\C# Prac. Projects\17_LarCon\bin\Debug\net7.0\17_LarCon.runtimeconfig.json
+C:\Users\user\Desktop\C# Prac. Projects\17_LarCon\bin\Debug\net7.0\17_LarCon.dll
+C:\Users\user\Desktop\C# Prac. Projects\17_LarCon\bin\Debug\net7.0\17_LarCon.pdb
+C:\Users\user\Desktop\C# Prac. Projects\17_LarCon\obj\Debug\net7.0\17_LarCon.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Prac. Projects\17_LarCon\obj\Debug\net7.0\17_LarCon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Prac. Projects\17_LarCon\obj\Debug\net7.0\17_LarCon.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\17_LarCon\obj\Debug\net7.0\17_LarCon.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Prac. Projects\17_LarCon\obj\Debug\net7.0\17_LarCon.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\17_LarCon\obj\Debug\net7.0\17_LarCon.dll
+C:\Users\user\Desktop\C# Prac. Projects\17_LarCon\obj\Debug\net7.0\refint\17_LarCon.dll
+C:\Users\user\Desktop\C# Prac. Projects\17_LarCon\obj\Debug\net7.0\17_LarCon.pdb
+C:\Users\user\Desktop\C# Prac. Projects\17_LarCon\obj\Debug\net7.0\17_LarCon.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Prac. Projects\17_LarCon\obj\Debug\net7.0\ref\17_LarCon.dll

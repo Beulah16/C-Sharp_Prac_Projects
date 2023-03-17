@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Prac. Projects\33_AlphaLoop\bin\Debug\net7.0\33_AlphaLoop.exe
+C:\Users\user\Desktop\C# Prac. Projects\33_AlphaLoop\bin\Debug\net7.0\33_AlphaLoop.deps.json
+C:\Users\user\Desktop\C# Prac. Projects\33_AlphaLoop\bin\Debug\net7.0\33_AlphaLoop.runtimeconfig.json
+C:\Users\user\Desktop\C# Prac. Projects\33_AlphaLoop\bin\Debug\net7.0\33_AlphaLoop.dll
+C:\Users\user\Desktop\C# Prac. Projects\33_AlphaLoop\bin\Debug\net7.0\33_AlphaLoop.pdb
+C:\Users\user\Desktop\C# Prac. Projects\33_AlphaLoop\obj\Debug\net7.0\33_AlphaLoop.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Prac. Projects\33_AlphaLoop\obj\Debug\net7.0\33_AlphaLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Prac. Projects\33_AlphaLoop\obj\Debug\net7.0\33_AlphaLoop.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\33_AlphaLoop\obj\Debug\net7.0\33_AlphaLoop.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Prac. Projects\33_AlphaLoop\obj\Debug\net7.0\33_AlphaLoop.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\33_AlphaLoop\obj\Debug\net7.0\33_AlphaLoop.dll
+C:\Users\user\Desktop\C# Prac. Projects\33_AlphaLoop\obj\Debug\net7.0\refint\33_AlphaLoop.dll
+C:\Users\user\Desktop\C# Prac. Projects\33_AlphaLoop\obj\Debug\net7.0\33_AlphaLoop.pdb
+C:\Users\user\Desktop\C# Prac. Projects\33_AlphaLoop\obj\Debug\net7.0\33_AlphaLoop.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Prac. Projects\33_AlphaLoop\obj\Debug\net7.0\ref\33_AlphaLoop.dll

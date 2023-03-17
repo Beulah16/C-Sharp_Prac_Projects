@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Prac. Projects\29_Student\bin\Debug\net7.0\29_Student.exe
+C:\Users\user\Desktop\C# Prac. Projects\29_Student\bin\Debug\net7.0\29_Student.deps.json
+C:\Users\user\Desktop\C# Prac. Projects\29_Student\bin\Debug\net7.0\29_Student.runtimeconfig.json
+C:\Users\user\Desktop\C# Prac. Projects\29_Student\bin\Debug\net7.0\29_Student.dll
+C:\Users\user\Desktop\C# Prac. Projects\29_Student\bin\Debug\net7.0\29_Student.pdb
+C:\Users\user\Desktop\C# Prac. Projects\29_Student\obj\Debug\net7.0\29_Student.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Prac. Projects\29_Student\obj\Debug\net7.0\29_Student.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Prac. Projects\29_Student\obj\Debug\net7.0\29_Student.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\29_Student\obj\Debug\net7.0\29_Student.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Prac. Projects\29_Student\obj\Debug\net7.0\29_Student.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\29_Student\obj\Debug\net7.0\29_Student.dll
+C:\Users\user\Desktop\C# Prac. Projects\29_Student\obj\Debug\net7.0\refint\29_Student.dll
+C:\Users\user\Desktop\C# Prac. Projects\29_Student\obj\Debug\net7.0\29_Student.pdb
+C:\Users\user\Desktop\C# Prac. Projects\29_Student\obj\Debug\net7.0\29_Student.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Prac. Projects\29_Student\obj\Debug\net7.0\ref\29_Student.dll

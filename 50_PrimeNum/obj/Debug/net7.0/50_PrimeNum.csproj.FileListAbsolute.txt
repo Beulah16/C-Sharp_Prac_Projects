@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Prac. Projects\50_PrimeNum\bin\Debug\net7.0\50_PrimeNum.exe
+C:\Users\user\Desktop\C# Prac. Projects\50_PrimeNum\bin\Debug\net7.0\50_PrimeNum.deps.json
+C:\Users\user\Desktop\C# Prac. Projects\50_PrimeNum\bin\Debug\net7.0\50_PrimeNum.runtimeconfig.json
+C:\Users\user\Desktop\C# Prac. Projects\50_PrimeNum\bin\Debug\net7.0\50_PrimeNum.dll
+C:\Users\user\Desktop\C# Prac. Projects\50_PrimeNum\bin\Debug\net7.0\50_PrimeNum.pdb
+C:\Users\user\Desktop\C# Prac. Projects\50_PrimeNum\obj\Debug\net7.0\50_PrimeNum.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Prac. Projects\50_PrimeNum\obj\Debug\net7.0\50_PrimeNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Prac. Projects\50_PrimeNum\obj\Debug\net7.0\50_PrimeNum.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\50_PrimeNum\obj\Debug\net7.0\50_PrimeNum.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Prac. Projects\50_PrimeNum\obj\Debug\net7.0\50_PrimeNum.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\50_PrimeNum\obj\Debug\net7.0\50_PrimeNum.dll
+C:\Users\user\Desktop\C# Prac. Projects\50_PrimeNum\obj\Debug\net7.0\refint\50_PrimeNum.dll
+C:\Users\user\Desktop\C# Prac. Projects\50_PrimeNum\obj\Debug\net7.0\50_PrimeNum.pdb
+C:\Users\user\Desktop\C# Prac. Projects\50_PrimeNum\obj\Debug\net7.0\50_PrimeNum.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Prac. Projects\50_PrimeNum\obj\Debug\net7.0\ref\50_PrimeNum.dll

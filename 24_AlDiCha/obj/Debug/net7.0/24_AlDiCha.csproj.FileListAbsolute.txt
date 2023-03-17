@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Prac. Projects\24_AlDiCha\bin\Debug\net7.0\24_AlDiCha.exe
+C:\Users\user\Desktop\C# Prac. Projects\24_AlDiCha\bin\Debug\net7.0\24_AlDiCha.deps.json
+C:\Users\user\Desktop\C# Prac. Projects\24_AlDiCha\bin\Debug\net7.0\24_AlDiCha.runtimeconfig.json
+C:\Users\user\Desktop\C# Prac. Projects\24_AlDiCha\bin\Debug\net7.0\24_AlDiCha.dll
+C:\Users\user\Desktop\C# Prac. Projects\24_AlDiCha\bin\Debug\net7.0\24_AlDiCha.pdb
+C:\Users\user\Desktop\C# Prac. Projects\24_AlDiCha\obj\Debug\net7.0\24_AlDiCha.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Prac. Projects\24_AlDiCha\obj\Debug\net7.0\24_AlDiCha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Prac. Projects\24_AlDiCha\obj\Debug\net7.0\24_AlDiCha.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\24_AlDiCha\obj\Debug\net7.0\24_AlDiCha.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Prac. Projects\24_AlDiCha\obj\Debug\net7.0\24_AlDiCha.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\24_AlDiCha\obj\Debug\net7.0\24_AlDiCha.dll
+C:\Users\user\Desktop\C# Prac. Projects\24_AlDiCha\obj\Debug\net7.0\refint\24_AlDiCha.dll
+C:\Users\user\Desktop\C# Prac. Projects\24_AlDiCha\obj\Debug\net7.0\24_AlDiCha.pdb
+C:\Users\user\Desktop\C# Prac. Projects\24_AlDiCha\obj\Debug\net7.0\24_AlDiCha.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Prac. Projects\24_AlDiCha\obj\Debug\net7.0\ref\24_AlDiCha.dll

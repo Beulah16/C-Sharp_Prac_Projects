@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Prac. Projects\13_AreaRect\bin\Debug\net7.0\13_AreaRect.exe
+C:\Users\user\Desktop\C# Prac. Projects\13_AreaRect\bin\Debug\net7.0\13_AreaRect.deps.json
+C:\Users\user\Desktop\C# Prac. Projects\13_AreaRect\bin\Debug\net7.0\13_AreaRect.runtimeconfig.json
+C:\Users\user\Desktop\C# Prac. Projects\13_AreaRect\bin\Debug\net7.0\13_AreaRect.dll
+C:\Users\user\Desktop\C# Prac. Projects\13_AreaRect\bin\Debug\net7.0\13_AreaRect.pdb
+C:\Users\user\Desktop\C# Prac. Projects\13_AreaRect\obj\Debug\net7.0\13_AreaRect.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Prac. Projects\13_AreaRect\obj\Debug\net7.0\13_AreaRect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Prac. Projects\13_AreaRect\obj\Debug\net7.0\13_AreaRect.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\13_AreaRect\obj\Debug\net7.0\13_AreaRect.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Prac. Projects\13_AreaRect\obj\Debug\net7.0\13_AreaRect.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\13_AreaRect\obj\Debug\net7.0\13_AreaRect.dll
+C:\Users\user\Desktop\C# Prac. Projects\13_AreaRect\obj\Debug\net7.0\refint\13_AreaRect.dll
+C:\Users\user\Desktop\C# Prac. Projects\13_AreaRect\obj\Debug\net7.0\13_AreaRect.pdb
+C:\Users\user\Desktop\C# Prac. Projects\13_AreaRect\obj\Debug\net7.0\13_AreaRect.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Prac. Projects\13_AreaRect\obj\Debug\net7.0\ref\13_AreaRect.dll

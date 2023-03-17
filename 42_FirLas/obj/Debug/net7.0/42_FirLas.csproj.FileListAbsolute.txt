@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Prac. Projects\42_FirLas\bin\Debug\net7.0\42_FirLas.exe
+C:\Users\user\Desktop\C# Prac. Projects\42_FirLas\bin\Debug\net7.0\42_FirLas.deps.json
+C:\Users\user\Desktop\C# Prac. Projects\42_FirLas\bin\Debug\net7.0\42_FirLas.runtimeconfig.json
+C:\Users\user\Desktop\C# Prac. Projects\42_FirLas\bin\Debug\net7.0\42_FirLas.dll
+C:\Users\user\Desktop\C# Prac. Projects\42_FirLas\bin\Debug\net7.0\42_FirLas.pdb
+C:\Users\user\Desktop\C# Prac. Projects\42_FirLas\obj\Debug\net7.0\42_FirLas.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Prac. Projects\42_FirLas\obj\Debug\net7.0\42_FirLas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Prac. Projects\42_FirLas\obj\Debug\net7.0\42_FirLas.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\42_FirLas\obj\Debug\net7.0\42_FirLas.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Prac. Projects\42_FirLas\obj\Debug\net7.0\42_FirLas.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\42_FirLas\obj\Debug\net7.0\42_FirLas.dll
+C:\Users\user\Desktop\C# Prac. Projects\42_FirLas\obj\Debug\net7.0\refint\42_FirLas.dll
+C:\Users\user\Desktop\C# Prac. Projects\42_FirLas\obj\Debug\net7.0\42_FirLas.pdb
+C:\Users\user\Desktop\C# Prac. Projects\42_FirLas\obj\Debug\net7.0\42_FirLas.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Prac. Projects\42_FirLas\obj\Debug\net7.0\ref\42_FirLas.dll

@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Prac. Projects\10_ASCII\bin\Debug\net7.0\10_ASCII.exe
+C:\Users\user\Desktop\C# Prac. Projects\10_ASCII\bin\Debug\net7.0\10_ASCII.deps.json
+C:\Users\user\Desktop\C# Prac. Projects\10_ASCII\bin\Debug\net7.0\10_ASCII.runtimeconfig.json
+C:\Users\user\Desktop\C# Prac. Projects\10_ASCII\bin\Debug\net7.0\10_ASCII.dll
+C:\Users\user\Desktop\C# Prac. Projects\10_ASCII\bin\Debug\net7.0\10_ASCII.pdb
+C:\Users\user\Desktop\C# Prac. Projects\10_ASCII\obj\Debug\net7.0\10_ASCII.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Prac. Projects\10_ASCII\obj\Debug\net7.0\10_ASCII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Prac. Projects\10_ASCII\obj\Debug\net7.0\10_ASCII.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\10_ASCII\obj\Debug\net7.0\10_ASCII.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Prac. Projects\10_ASCII\obj\Debug\net7.0\10_ASCII.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\10_ASCII\obj\Debug\net7.0\10_ASCII.dll
+C:\Users\user\Desktop\C# Prac. Projects\10_ASCII\obj\Debug\net7.0\refint\10_ASCII.dll
+C:\Users\user\Desktop\C# Prac. Projects\10_ASCII\obj\Debug\net7.0\10_ASCII.pdb
+C:\Users\user\Desktop\C# Prac. Projects\10_ASCII\obj\Debug\net7.0\10_ASCII.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Prac. Projects\10_ASCII\obj\Debug\net7.0\ref\10_ASCII.dll

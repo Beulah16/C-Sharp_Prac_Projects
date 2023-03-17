@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Prac. Projects\49_Interest\bin\Debug\net7.0\49_Interest.exe
+C:\Users\user\Desktop\C# Prac. Projects\49_Interest\bin\Debug\net7.0\49_Interest.deps.json
+C:\Users\user\Desktop\C# Prac. Projects\49_Interest\bin\Debug\net7.0\49_Interest.runtimeconfig.json
+C:\Users\user\Desktop\C# Prac. Projects\49_Interest\bin\Debug\net7.0\49_Interest.dll
+C:\Users\user\Desktop\C# Prac. Projects\49_Interest\bin\Debug\net7.0\49_Interest.pdb
+C:\Users\user\Desktop\C# Prac. Projects\49_Interest\obj\Debug\net7.0\49_Interest.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Prac. Projects\49_Interest\obj\Debug\net7.0\49_Interest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Prac. Projects\49_Interest\obj\Debug\net7.0\49_Interest.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\49_Interest\obj\Debug\net7.0\49_Interest.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Prac. Projects\49_Interest\obj\Debug\net7.0\49_Interest.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\49_Interest\obj\Debug\net7.0\49_Interest.dll
+C:\Users\user\Desktop\C# Prac. Projects\49_Interest\obj\Debug\net7.0\refint\49_Interest.dll
+C:\Users\user\Desktop\C# Prac. Projects\49_Interest\obj\Debug\net7.0\49_Interest.pdb
+C:\Users\user\Desktop\C# Prac. Projects\49_Interest\obj\Debug\net7.0\49_Interest.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Prac. Projects\49_Interest\obj\Debug\net7.0\ref\49_Interest.dll

@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Prac. Projects\16_Lar3\bin\Debug\net7.0\16_Lar3.exe
+C:\Users\user\Desktop\C# Prac. Projects\16_Lar3\bin\Debug\net7.0\16_Lar3.deps.json
+C:\Users\user\Desktop\C# Prac. Projects\16_Lar3\bin\Debug\net7.0\16_Lar3.runtimeconfig.json
+C:\Users\user\Desktop\C# Prac. Projects\16_Lar3\bin\Debug\net7.0\16_Lar3.dll
+C:\Users\user\Desktop\C# Prac. Projects\16_Lar3\bin\Debug\net7.0\16_Lar3.pdb
+C:\Users\user\Desktop\C# Prac. Projects\16_Lar3\obj\Debug\net7.0\16_Lar3.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Prac. Projects\16_Lar3\obj\Debug\net7.0\16_Lar3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Prac. Projects\16_Lar3\obj\Debug\net7.0\16_Lar3.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\16_Lar3\obj\Debug\net7.0\16_Lar3.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Prac. Projects\16_Lar3\obj\Debug\net7.0\16_Lar3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\16_Lar3\obj\Debug\net7.0\16_Lar3.dll
+C:\Users\user\Desktop\C# Prac. Projects\16_Lar3\obj\Debug\net7.0\refint\16_Lar3.dll
+C:\Users\user\Desktop\C# Prac. Projects\16_Lar3\obj\Debug\net7.0\16_Lar3.pdb
+C:\Users\user\Desktop\C# Prac. Projects\16_Lar3\obj\Debug\net7.0\16_Lar3.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Prac. Projects\16_Lar3\obj\Debug\net7.0\ref\16_Lar3.dll

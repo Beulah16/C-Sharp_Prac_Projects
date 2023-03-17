@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Prac. Projects\5_Arthm_Ops\obj\Debug\net7.0\5_Arthm_Ops.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Prac. Projects\5_Arthm_Ops\obj\Debug\net7.0\5_Arthm_Ops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Prac. Projects\5_Arthm_Ops\obj\Debug\net7.0\5_Arthm_Ops.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\5_Arthm_Ops\obj\Debug\net7.0\5_Arthm_Ops.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Prac. Projects\5_Arthm_Ops\obj\Debug\net7.0\5_Arthm_Ops.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\5_Arthm_Ops\bin\Debug\net7.0\5_Arthm_Ops.exe
+C:\Users\user\Desktop\C# Prac. Projects\5_Arthm_Ops\bin\Debug\net7.0\5_Arthm_Ops.deps.json
+C:\Users\user\Desktop\C# Prac. Projects\5_Arthm_Ops\bin\Debug\net7.0\5_Arthm_Ops.runtimeconfig.json
+C:\Users\user\Desktop\C# Prac. Projects\5_Arthm_Ops\bin\Debug\net7.0\5_Arthm_Ops.dll
+C:\Users\user\Desktop\C# Prac. Projects\5_Arthm_Ops\bin\Debug\net7.0\5_Arthm_Ops.pdb
+C:\Users\user\Desktop\C# Prac. Projects\5_Arthm_Ops\obj\Debug\net7.0\5_Arthm_Ops.dll
+C:\Users\user\Desktop\C# Prac. Projects\5_Arthm_Ops\obj\Debug\net7.0\refint\5_Arthm_Ops.dll
+C:\Users\user\Desktop\C# Prac. Projects\5_Arthm_Ops\obj\Debug\net7.0\5_Arthm_Ops.pdb
+C:\Users\user\Desktop\C# Prac. Projects\5_Arthm_Ops\obj\Debug\net7.0\5_Arthm_Ops.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Prac. Projects\5_Arthm_Ops\obj\Debug\net7.0\ref\5_Arthm_Ops.dll

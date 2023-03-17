@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Prac. Projects\25_DayName\bin\Debug\net7.0\25_DayName.exe
+C:\Users\user\Desktop\C# Prac. Projects\25_DayName\bin\Debug\net7.0\25_DayName.deps.json
+C:\Users\user\Desktop\C# Prac. Projects\25_DayName\bin\Debug\net7.0\25_DayName.runtimeconfig.json
+C:\Users\user\Desktop\C# Prac. Projects\25_DayName\bin\Debug\net7.0\25_DayName.dll
+C:\Users\user\Desktop\C# Prac. Projects\25_DayName\bin\Debug\net7.0\25_DayName.pdb
+C:\Users\user\Desktop\C# Prac. Projects\25_DayName\obj\Debug\net7.0\25_DayName.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Prac. Projects\25_DayName\obj\Debug\net7.0\25_DayName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Prac. Projects\25_DayName\obj\Debug\net7.0\25_DayName.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\25_DayName\obj\Debug\net7.0\25_DayName.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Prac. Projects\25_DayName\obj\Debug\net7.0\25_DayName.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\25_DayName\obj\Debug\net7.0\25_DayName.dll
+C:\Users\user\Desktop\C# Prac. Projects\25_DayName\obj\Debug\net7.0\refint\25_DayName.dll
+C:\Users\user\Desktop\C# Prac. Projects\25_DayName\obj\Debug\net7.0\25_DayName.pdb
+C:\Users\user\Desktop\C# Prac. Projects\25_DayName\obj\Debug\net7.0\25_DayName.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Prac. Projects\25_DayName\obj\Debug\net7.0\ref\25_DayName.dll

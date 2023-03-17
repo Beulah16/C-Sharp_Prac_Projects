@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Prac. Projects\6_FeToMe\bin\Debug\net7.0\6_FeToMe.exe
+C:\Users\user\Desktop\C# Prac. Projects\6_FeToMe\bin\Debug\net7.0\6_FeToMe.deps.json
+C:\Users\user\Desktop\C# Prac. Projects\6_FeToMe\bin\Debug\net7.0\6_FeToMe.runtimeconfig.json
+C:\Users\user\Desktop\C# Prac. Projects\6_FeToMe\bin\Debug\net7.0\6_FeToMe.dll
+C:\Users\user\Desktop\C# Prac. Projects\6_FeToMe\bin\Debug\net7.0\6_FeToMe.pdb
+C:\Users\user\Desktop\C# Prac. Projects\6_FeToMe\obj\Debug\net7.0\6_FeToMe.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Prac. Projects\6_FeToMe\obj\Debug\net7.0\6_FeToMe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Prac. Projects\6_FeToMe\obj\Debug\net7.0\6_FeToMe.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\6_FeToMe\obj\Debug\net7.0\6_FeToMe.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Prac. Projects\6_FeToMe\obj\Debug\net7.0\6_FeToMe.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\6_FeToMe\obj\Debug\net7.0\6_FeToMe.dll
+C:\Users\user\Desktop\C# Prac. Projects\6_FeToMe\obj\Debug\net7.0\refint\6_FeToMe.dll
+C:\Users\user\Desktop\C# Prac. Projects\6_FeToMe\obj\Debug\net7.0\6_FeToMe.pdb
+C:\Users\user\Desktop\C# Prac. Projects\6_FeToMe\obj\Debug\net7.0\6_FeToMe.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Prac. Projects\6_FeToMe\obj\Debug\net7.0\ref\6_FeToMe.dll

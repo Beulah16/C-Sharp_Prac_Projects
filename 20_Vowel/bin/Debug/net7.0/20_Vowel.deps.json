@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "20_Vowel/1.0.0": {
+        "runtime": {
+          "20_Vowel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "20_Vowel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Prac. Projects\47_Armstrong\bin\Debug\net7.0\47_Armstrong.exe
+C:\Users\user\Desktop\C# Prac. Projects\47_Armstrong\bin\Debug\net7.0\47_Armstrong.deps.json
+C:\Users\user\Desktop\C# Prac. Projects\47_Armstrong\bin\Debug\net7.0\47_Armstrong.runtimeconfig.json
+C:\Users\user\Desktop\C# Prac. Projects\47_Armstrong\bin\Debug\net7.0\47_Armstrong.dll
+C:\Users\user\Desktop\C# Prac. Projects\47_Armstrong\bin\Debug\net7.0\47_Armstrong.pdb
+C:\Users\user\Desktop\C# Prac. Projects\47_Armstrong\obj\Debug\net7.0\47_Armstrong.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Prac. Projects\47_Armstrong\obj\Debug\net7.0\47_Armstrong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Prac. Projects\47_Armstrong\obj\Debug\net7.0\47_Armstrong.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\47_Armstrong\obj\Debug\net7.0\47_Armstrong.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Prac. Projects\47_Armstrong\obj\Debug\net7.0\47_Armstrong.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\47_Armstrong\obj\Debug\net7.0\47_Armstrong.dll
+C:\Users\user\Desktop\C# Prac. Projects\47_Armstrong\obj\Debug\net7.0\refint\47_Armstrong.dll
+C:\Users\user\Desktop\C# Prac. Projects\47_Armstrong\obj\Debug\net7.0\47_Armstrong.pdb
+C:\Users\user\Desktop\C# Prac. Projects\47_Armstrong\obj\Debug\net7.0\47_Armstrong.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Prac. Projects\47_Armstrong\obj\Debug\net7.0\ref\47_Armstrong.dll

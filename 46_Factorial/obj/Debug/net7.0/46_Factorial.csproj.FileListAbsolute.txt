@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Prac. Projects\46_Factorial\bin\Debug\net7.0\46_Factorial.exe
+C:\Users\user\Desktop\C# Prac. Projects\46_Factorial\bin\Debug\net7.0\46_Factorial.deps.json
+C:\Users\user\Desktop\C# Prac. Projects\46_Factorial\bin\Debug\net7.0\46_Factorial.runtimeconfig.json
+C:\Users\user\Desktop\C# Prac. Projects\46_Factorial\bin\Debug\net7.0\46_Factorial.dll
+C:\Users\user\Desktop\C# Prac. Projects\46_Factorial\bin\Debug\net7.0\46_Factorial.pdb
+C:\Users\user\Desktop\C# Prac. Projects\46_Factorial\obj\Debug\net7.0\46_Factorial.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Prac. Projects\46_Factorial\obj\Debug\net7.0\46_Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Prac. Projects\46_Factorial\obj\Debug\net7.0\46_Factorial.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\46_Factorial\obj\Debug\net7.0\46_Factorial.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Prac. Projects\46_Factorial\obj\Debug\net7.0\46_Factorial.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\46_Factorial\obj\Debug\net7.0\46_Factorial.dll
+C:\Users\user\Desktop\C# Prac. Projects\46_Factorial\obj\Debug\net7.0\refint\46_Factorial.dll
+C:\Users\user\Desktop\C# Prac. Projects\46_Factorial\obj\Debug\net7.0\46_Factorial.pdb
+C:\Users\user\Desktop\C# Prac. Projects\46_Factorial\obj\Debug\net7.0\46_Factorial.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Prac. Projects\46_Factorial\obj\Debug\net7.0\ref\46_Factorial.dll

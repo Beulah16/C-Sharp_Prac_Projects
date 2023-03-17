@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Prac. Projects\7_CelToFar\bin\Debug\net7.0\7_CelToFar.exe
+C:\Users\user\Desktop\C# Prac. Projects\7_CelToFar\bin\Debug\net7.0\7_CelToFar.deps.json
+C:\Users\user\Desktop\C# Prac. Projects\7_CelToFar\bin\Debug\net7.0\7_CelToFar.runtimeconfig.json
+C:\Users\user\Desktop\C# Prac. Projects\7_CelToFar\bin\Debug\net7.0\7_CelToFar.dll
+C:\Users\user\Desktop\C# Prac. Projects\7_CelToFar\bin\Debug\net7.0\7_CelToFar.pdb
+C:\Users\user\Desktop\C# Prac. Projects\7_CelToFar\obj\Debug\net7.0\7_CelToFar.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Prac. Projects\7_CelToFar\obj\Debug\net7.0\7_CelToFar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Prac. Projects\7_CelToFar\obj\Debug\net7.0\7_CelToFar.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\7_CelToFar\obj\Debug\net7.0\7_CelToFar.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Prac. Projects\7_CelToFar\obj\Debug\net7.0\7_CelToFar.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\7_CelToFar\obj\Debug\net7.0\7_CelToFar.dll
+C:\Users\user\Desktop\C# Prac. Projects\7_CelToFar\obj\Debug\net7.0\refint\7_CelToFar.dll
+C:\Users\user\Desktop\C# Prac. Projects\7_CelToFar\obj\Debug\net7.0\7_CelToFar.pdb
+C:\Users\user\Desktop\C# Prac. Projects\7_CelToFar\obj\Debug\net7.0\7_CelToFar.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Prac. Projects\7_CelToFar\obj\Debug\net7.0\ref\7_CelToFar.dll

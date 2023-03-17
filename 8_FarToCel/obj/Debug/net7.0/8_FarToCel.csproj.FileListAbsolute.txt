@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Prac. Projects\8_FarToCel\bin\Debug\net7.0\8_FarToCel.exe
+C:\Users\user\Desktop\C# Prac. Projects\8_FarToCel\bin\Debug\net7.0\8_FarToCel.deps.json
+C:\Users\user\Desktop\C# Prac. Projects\8_FarToCel\bin\Debug\net7.0\8_FarToCel.runtimeconfig.json
+C:\Users\user\Desktop\C# Prac. Projects\8_FarToCel\bin\Debug\net7.0\8_FarToCel.dll
+C:\Users\user\Desktop\C# Prac. Projects\8_FarToCel\bin\Debug\net7.0\8_FarToCel.pdb
+C:\Users\user\Desktop\C# Prac. Projects\8_FarToCel\obj\Debug\net7.0\8_FarToCel.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Prac. Projects\8_FarToCel\obj\Debug\net7.0\8_FarToCel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Prac. Projects\8_FarToCel\obj\Debug\net7.0\8_FarToCel.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\8_FarToCel\obj\Debug\net7.0\8_FarToCel.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Prac. Projects\8_FarToCel\obj\Debug\net7.0\8_FarToCel.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\8_FarToCel\obj\Debug\net7.0\8_FarToCel.dll
+C:\Users\user\Desktop\C# Prac. Projects\8_FarToCel\obj\Debug\net7.0\refint\8_FarToCel.dll
+C:\Users\user\Desktop\C# Prac. Projects\8_FarToCel\obj\Debug\net7.0\8_FarToCel.pdb
+C:\Users\user\Desktop\C# Prac. Projects\8_FarToCel\obj\Debug\net7.0\8_FarToCel.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Prac. Projects\8_FarToCel\obj\Debug\net7.0\ref\8_FarToCel.dll

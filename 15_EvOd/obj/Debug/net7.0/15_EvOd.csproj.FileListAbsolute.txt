@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Prac. Projects\15_EvOd\obj\Debug\net7.0\15_EvOd.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Prac. Projects\15_EvOd\obj\Debug\net7.0\15_EvOd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Prac. Projects\15_EvOd\obj\Debug\net7.0\15_EvOd.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\15_EvOd\obj\Debug\net7.0\15_EvOd.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Prac. Projects\15_EvOd\obj\Debug\net7.0\15_EvOd.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\15_EvOd\bin\Debug\net7.0\15_EvOd.exe
+C:\Users\user\Desktop\C# Prac. Projects\15_EvOd\bin\Debug\net7.0\15_EvOd.deps.json
+C:\Users\user\Desktop\C# Prac. Projects\15_EvOd\bin\Debug\net7.0\15_EvOd.runtimeconfig.json
+C:\Users\user\Desktop\C# Prac. Projects\15_EvOd\bin\Debug\net7.0\15_EvOd.dll
+C:\Users\user\Desktop\C# Prac. Projects\15_EvOd\bin\Debug\net7.0\15_EvOd.pdb
+C:\Users\user\Desktop\C# Prac. Projects\15_EvOd\obj\Debug\net7.0\15_EvOd.dll
+C:\Users\user\Desktop\C# Prac. Projects\15_EvOd\obj\Debug\net7.0\refint\15_EvOd.dll
+C:\Users\user\Desktop\C# Prac. Projects\15_EvOd\obj\Debug\net7.0\15_EvOd.pdb
+C:\Users\user\Desktop\C# Prac. Projects\15_EvOd\obj\Debug\net7.0\15_EvOd.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Prac. Projects\15_EvOd\obj\Debug\net7.0\ref\15_EvOd.dll

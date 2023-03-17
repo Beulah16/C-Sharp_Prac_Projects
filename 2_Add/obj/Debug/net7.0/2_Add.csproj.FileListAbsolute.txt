@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Prac. Projects\2_Add\obj\Debug\net7.0\2_Add.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Prac. Projects\2_Add\obj\Debug\net7.0\2_Add.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Prac. Projects\2_Add\obj\Debug\net7.0\2_Add.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\2_Add\obj\Debug\net7.0\2_Add.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Prac. Projects\2_Add\obj\Debug\net7.0\2_Add.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\2_Add\bin\Debug\net7.0\2_Add.exe
+C:\Users\user\Desktop\C# Prac. Projects\2_Add\bin\Debug\net7.0\2_Add.deps.json
+C:\Users\user\Desktop\C# Prac. Projects\2_Add\bin\Debug\net7.0\2_Add.runtimeconfig.json
+C:\Users\user\Desktop\C# Prac. Projects\2_Add\bin\Debug\net7.0\2_Add.dll
+C:\Users\user\Desktop\C# Prac. Projects\2_Add\bin\Debug\net7.0\2_Add.pdb
+C:\Users\user\Desktop\C# Prac. Projects\2_Add\obj\Debug\net7.0\2_Add.dll
+C:\Users\user\Desktop\C# Prac. Projects\2_Add\obj\Debug\net7.0\refint\2_Add.dll
+C:\Users\user\Desktop\C# Prac. Projects\2_Add\obj\Debug\net7.0\2_Add.pdb
+C:\Users\user\Desktop\C# Prac. Projects\2_Add\obj\Debug\net7.0\2_Add.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Prac. Projects\2_Add\obj\Debug\net7.0\ref\2_Add.dll

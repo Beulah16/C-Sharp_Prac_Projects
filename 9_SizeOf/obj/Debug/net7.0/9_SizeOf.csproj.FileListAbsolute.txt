@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Prac. Projects\9_SizeOf\obj\Debug\net7.0\9_SizeOf.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Prac. Projects\9_SizeOf\obj\Debug\net7.0\9_SizeOf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Prac. Projects\9_SizeOf\obj\Debug\net7.0\9_SizeOf.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\9_SizeOf\obj\Debug\net7.0\9_SizeOf.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Prac. Projects\9_SizeOf\obj\Debug\net7.0\9_SizeOf.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\9_SizeOf\bin\Debug\net7.0\9_SizeOf.exe
+C:\Users\user\Desktop\C# Prac. Projects\9_SizeOf\bin\Debug\net7.0\9_SizeOf.deps.json
+C:\Users\user\Desktop\C# Prac. Projects\9_SizeOf\bin\Debug\net7.0\9_SizeOf.runtimeconfig.json
+C:\Users\user\Desktop\C# Prac. Projects\9_SizeOf\bin\Debug\net7.0\9_SizeOf.dll
+C:\Users\user\Desktop\C# Prac. Projects\9_SizeOf\bin\Debug\net7.0\9_SizeOf.pdb
+C:\Users\user\Desktop\C# Prac. Projects\9_SizeOf\obj\Debug\net7.0\9_SizeOf.dll
+C:\Users\user\Desktop\C# Prac. Projects\9_SizeOf\obj\Debug\net7.0\refint\9_SizeOf.dll
+C:\Users\user\Desktop\C# Prac. Projects\9_SizeOf\obj\Debug\net7.0\9_SizeOf.pdb
+C:\Users\user\Desktop\C# Prac. Projects\9_SizeOf\obj\Debug\net7.0\9_SizeOf.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Prac. Projects\9_SizeOf\obj\Debug\net7.0\ref\9_SizeOf.dll

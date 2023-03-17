@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Prac. Projects\45_Power\bin\Debug\net7.0\45_Power.exe
+C:\Users\user\Desktop\C# Prac. Projects\45_Power\bin\Debug\net7.0\45_Power.deps.json
+C:\Users\user\Desktop\C# Prac. Projects\45_Power\bin\Debug\net7.0\45_Power.runtimeconfig.json
+C:\Users\user\Desktop\C# Prac. Projects\45_Power\bin\Debug\net7.0\45_Power.dll
+C:\Users\user\Desktop\C# Prac. Projects\45_Power\bin\Debug\net7.0\45_Power.pdb
+C:\Users\user\Desktop\C# Prac. Projects\45_Power\obj\Debug\net7.0\45_Power.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Prac. Projects\45_Power\obj\Debug\net7.0\45_Power.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Prac. Projects\45_Power\obj\Debug\net7.0\45_Power.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\45_Power\obj\Debug\net7.0\45_Power.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Prac. Projects\45_Power\obj\Debug\net7.0\45_Power.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\45_Power\obj\Debug\net7.0\45_Power.dll
+C:\Users\user\Desktop\C# Prac. Projects\45_Power\obj\Debug\net7.0\refint\45_Power.dll
+C:\Users\user\Desktop\C# Prac. Projects\45_Power\obj\Debug\net7.0\45_Power.pdb
+C:\Users\user\Desktop\C# Prac. Projects\45_Power\obj\Debug\net7.0\45_Power.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Prac. Projects\45_Power\obj\Debug\net7.0\ref\45_Power.dll

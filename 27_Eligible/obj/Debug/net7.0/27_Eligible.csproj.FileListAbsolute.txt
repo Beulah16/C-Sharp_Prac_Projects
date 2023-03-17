@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Prac. Projects\27_Eligible\bin\Debug\net7.0\27_Eligible.exe
+C:\Users\user\Desktop\C# Prac. Projects\27_Eligible\bin\Debug\net7.0\27_Eligible.deps.json
+C:\Users\user\Desktop\C# Prac. Projects\27_Eligible\bin\Debug\net7.0\27_Eligible.runtimeconfig.json
+C:\Users\user\Desktop\C# Prac. Projects\27_Eligible\bin\Debug\net7.0\27_Eligible.dll
+C:\Users\user\Desktop\C# Prac. Projects\27_Eligible\bin\Debug\net7.0\27_Eligible.pdb
+C:\Users\user\Desktop\C# Prac. Projects\27_Eligible\obj\Debug\net7.0\27_Eligible.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Prac. Projects\27_Eligible\obj\Debug\net7.0\27_Eligible.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Prac. Projects\27_Eligible\obj\Debug\net7.0\27_Eligible.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\27_Eligible\obj\Debug\net7.0\27_Eligible.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Prac. Projects\27_Eligible\obj\Debug\net7.0\27_Eligible.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\27_Eligible\obj\Debug\net7.0\27_Eligible.dll
+C:\Users\user\Desktop\C# Prac. Projects\27_Eligible\obj\Debug\net7.0\refint\27_Eligible.dll
+C:\Users\user\Desktop\C# Prac. Projects\27_Eligible\obj\Debug\net7.0\27_Eligible.pdb
+C:\Users\user\Desktop\C# Prac. Projects\27_Eligible\obj\Debug\net7.0\27_Eligible.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Prac. Projects\27_Eligible\obj\Debug\net7.0\ref\27_Eligible.dll

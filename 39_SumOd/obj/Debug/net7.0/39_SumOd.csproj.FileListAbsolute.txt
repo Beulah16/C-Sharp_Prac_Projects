@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Prac. Projects\39_SumOd\bin\Debug\net7.0\39_SumOd.exe
+C:\Users\user\Desktop\C# Prac. Projects\39_SumOd\bin\Debug\net7.0\39_SumOd.deps.json
+C:\Users\user\Desktop\C# Prac. Projects\39_SumOd\bin\Debug\net7.0\39_SumOd.runtimeconfig.json
+C:\Users\user\Desktop\C# Prac. Projects\39_SumOd\bin\Debug\net7.0\39_SumOd.dll
+C:\Users\user\Desktop\C# Prac. Projects\39_SumOd\bin\Debug\net7.0\39_SumOd.pdb
+C:\Users\user\Desktop\C# Prac. Projects\39_SumOd\obj\Debug\net7.0\39_SumOd.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Prac. Projects\39_SumOd\obj\Debug\net7.0\39_SumOd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Prac. Projects\39_SumOd\obj\Debug\net7.0\39_SumOd.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\39_SumOd\obj\Debug\net7.0\39_SumOd.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Prac. Projects\39_SumOd\obj\Debug\net7.0\39_SumOd.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\39_SumOd\obj\Debug\net7.0\39_SumOd.dll
+C:\Users\user\Desktop\C# Prac. Projects\39_SumOd\obj\Debug\net7.0\refint\39_SumOd.dll
+C:\Users\user\Desktop\C# Prac. Projects\39_SumOd\obj\Debug\net7.0\39_SumOd.pdb
+C:\Users\user\Desktop\C# Prac. Projects\39_SumOd\obj\Debug\net7.0\39_SumOd.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Prac. Projects\39_SumOd\obj\Debug\net7.0\ref\39_SumOd.dll

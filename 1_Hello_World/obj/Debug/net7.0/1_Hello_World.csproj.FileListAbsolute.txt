@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Prac. Projects\1_Hello_World\bin\Debug\net7.0\1_Hello_World.exe
+C:\Users\user\Desktop\C# Prac. Projects\1_Hello_World\bin\Debug\net7.0\1_Hello_World.deps.json
+C:\Users\user\Desktop\C# Prac. Projects\1_Hello_World\bin\Debug\net7.0\1_Hello_World.runtimeconfig.json
+C:\Users\user\Desktop\C# Prac. Projects\1_Hello_World\bin\Debug\net7.0\1_Hello_World.dll
+C:\Users\user\Desktop\C# Prac. Projects\1_Hello_World\bin\Debug\net7.0\1_Hello_World.pdb
+C:\Users\user\Desktop\C# Prac. Projects\1_Hello_World\obj\Debug\net7.0\1_Hello_World.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Prac. Projects\1_Hello_World\obj\Debug\net7.0\1_Hello_World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Prac. Projects\1_Hello_World\obj\Debug\net7.0\1_Hello_World.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\1_Hello_World\obj\Debug\net7.0\1_Hello_World.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Prac. Projects\1_Hello_World\obj\Debug\net7.0\1_Hello_World.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\1_Hello_World\obj\Debug\net7.0\1_Hello_World.dll
+C:\Users\user\Desktop\C# Prac. Projects\1_Hello_World\obj\Debug\net7.0\refint\1_Hello_World.dll
+C:\Users\user\Desktop\C# Prac. Projects\1_Hello_World\obj\Debug\net7.0\1_Hello_World.pdb
+C:\Users\user\Desktop\C# Prac. Projects\1_Hello_World\obj\Debug\net7.0\1_Hello_World.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Prac. Projects\1_Hello_World\obj\Debug\net7.0\ref\1_Hello_World.dll

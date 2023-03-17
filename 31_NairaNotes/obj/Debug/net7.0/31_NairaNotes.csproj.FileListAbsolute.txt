@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Prac. Projects\31_NairaNotes\bin\Debug\net7.0\31_NairaNotes.exe
+C:\Users\user\Desktop\C# Prac. Projects\31_NairaNotes\bin\Debug\net7.0\31_NairaNotes.deps.json
+C:\Users\user\Desktop\C# Prac. Projects\31_NairaNotes\bin\Debug\net7.0\31_NairaNotes.runtimeconfig.json
+C:\Users\user\Desktop\C# Prac. Projects\31_NairaNotes\bin\Debug\net7.0\31_NairaNotes.dll
+C:\Users\user\Desktop\C# Prac. Projects\31_NairaNotes\bin\Debug\net7.0\31_NairaNotes.pdb
+C:\Users\user\Desktop\C# Prac. Projects\31_NairaNotes\obj\Debug\net7.0\31_NairaNotes.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Prac. Projects\31_NairaNotes\obj\Debug\net7.0\31_NairaNotes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Prac. Projects\31_NairaNotes\obj\Debug\net7.0\31_NairaNotes.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\31_NairaNotes\obj\Debug\net7.0\31_NairaNotes.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Prac. Projects\31_NairaNotes\obj\Debug\net7.0\31_NairaNotes.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\31_NairaNotes\obj\Debug\net7.0\31_NairaNotes.dll
+C:\Users\user\Desktop\C# Prac. Projects\31_NairaNotes\obj\Debug\net7.0\refint\31_NairaNotes.dll
+C:\Users\user\Desktop\C# Prac. Projects\31_NairaNotes\obj\Debug\net7.0\31_NairaNotes.pdb
+C:\Users\user\Desktop\C# Prac. Projects\31_NairaNotes\obj\Debug\net7.0\31_NairaNotes.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Prac. Projects\31_NairaNotes\obj\Debug\net7.0\ref\31_NairaNotes.dll

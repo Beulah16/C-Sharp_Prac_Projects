@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Prac. Projects\11_AreaCircle\bin\Debug\net7.0\11_AreaCircle.exe
+C:\Users\user\Desktop\C# Prac. Projects\11_AreaCircle\bin\Debug\net7.0\11_AreaCircle.deps.json
+C:\Users\user\Desktop\C# Prac. Projects\11_AreaCircle\bin\Debug\net7.0\11_AreaCircle.runtimeconfig.json
+C:\Users\user\Desktop\C# Prac. Projects\11_AreaCircle\bin\Debug\net7.0\11_AreaCircle.dll
+C:\Users\user\Desktop\C# Prac. Projects\11_AreaCircle\bin\Debug\net7.0\11_AreaCircle.pdb
+C:\Users\user\Desktop\C# Prac. Projects\11_AreaCircle\obj\Debug\net7.0\11_AreaCircle.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Prac. Projects\11_AreaCircle\obj\Debug\net7.0\11_AreaCircle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Prac. Projects\11_AreaCircle\obj\Debug\net7.0\11_AreaCircle.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\11_AreaCircle\obj\Debug\net7.0\11_AreaCircle.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Prac. Projects\11_AreaCircle\obj\Debug\net7.0\11_AreaCircle.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\11_AreaCircle\obj\Debug\net7.0\11_AreaCircle.dll
+C:\Users\user\Desktop\C# Prac. Projects\11_AreaCircle\obj\Debug\net7.0\refint\11_AreaCircle.dll
+C:\Users\user\Desktop\C# Prac. Projects\11_AreaCircle\obj\Debug\net7.0\11_AreaCircle.pdb
+C:\Users\user\Desktop\C# Prac. Projects\11_AreaCircle\obj\Debug\net7.0\11_AreaCircle.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Prac. Projects\11_AreaCircle\obj\Debug\net7.0\ref\11_AreaCircle.dll

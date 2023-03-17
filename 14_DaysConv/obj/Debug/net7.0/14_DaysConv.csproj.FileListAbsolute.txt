@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Prac. Projects\14_DaysConv\bin\Debug\net7.0\14_DaysConv.exe
+C:\Users\user\Desktop\C# Prac. Projects\14_DaysConv\bin\Debug\net7.0\14_DaysConv.deps.json
+C:\Users\user\Desktop\C# Prac. Projects\14_DaysConv\bin\Debug\net7.0\14_DaysConv.runtimeconfig.json
+C:\Users\user\Desktop\C# Prac. Projects\14_DaysConv\bin\Debug\net7.0\14_DaysConv.dll
+C:\Users\user\Desktop\C# Prac. Projects\14_DaysConv\bin\Debug\net7.0\14_DaysConv.pdb
+C:\Users\user\Desktop\C# Prac. Projects\14_DaysConv\obj\Debug\net7.0\14_DaysConv.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Prac. Projects\14_DaysConv\obj\Debug\net7.0\14_DaysConv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Prac. Projects\14_DaysConv\obj\Debug\net7.0\14_DaysConv.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\14_DaysConv\obj\Debug\net7.0\14_DaysConv.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Prac. Projects\14_DaysConv\obj\Debug\net7.0\14_DaysConv.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\14_DaysConv\obj\Debug\net7.0\14_DaysConv.dll
+C:\Users\user\Desktop\C# Prac. Projects\14_DaysConv\obj\Debug\net7.0\refint\14_DaysConv.dll
+C:\Users\user\Desktop\C# Prac. Projects\14_DaysConv\obj\Debug\net7.0\14_DaysConv.pdb
+C:\Users\user\Desktop\C# Prac. Projects\14_DaysConv\obj\Debug\net7.0\14_DaysConv.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Prac. Projects\14_DaysConv\obj\Debug\net7.0\ref\14_DaysConv.dll

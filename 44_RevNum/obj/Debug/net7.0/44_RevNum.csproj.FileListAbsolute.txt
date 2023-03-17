@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Prac. Projects\44_RevNum\bin\Debug\net7.0\44_RevNum.exe
+C:\Users\user\Desktop\C# Prac. Projects\44_RevNum\bin\Debug\net7.0\44_RevNum.deps.json
+C:\Users\user\Desktop\C# Prac. Projects\44_RevNum\bin\Debug\net7.0\44_RevNum.runtimeconfig.json
+C:\Users\user\Desktop\C# Prac. Projects\44_RevNum\bin\Debug\net7.0\44_RevNum.dll
+C:\Users\user\Desktop\C# Prac. Projects\44_RevNum\bin\Debug\net7.0\44_RevNum.pdb
+C:\Users\user\Desktop\C# Prac. Projects\44_RevNum\obj\Debug\net7.0\44_RevNum.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Prac. Projects\44_RevNum\obj\Debug\net7.0\44_RevNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Prac. Projects\44_RevNum\obj\Debug\net7.0\44_RevNum.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\44_RevNum\obj\Debug\net7.0\44_RevNum.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Prac. Projects\44_RevNum\obj\Debug\net7.0\44_RevNum.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Prac. Projects\44_RevNum\obj\Debug\net7.0\44_RevNum.dll
+C:\Users\user\Desktop\C# Prac. Projects\44_RevNum\obj\Debug\net7.0\refint\44_RevNum.dll
+C:\Users\user\Desktop\C# Prac. Projects\44_RevNum\obj\Debug\net7.0\44_RevNum.pdb
+C:\Users\user\Desktop\C# Prac. Projects\44_RevNum\obj\Debug\net7.0\44_RevNum.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Prac. Projects\44_RevNum\obj\Debug\net7.0\ref\44_RevNum.dll
